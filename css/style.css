@@ -6,3 +6,6 @@
 .navbar {
     background-color: red;
 }
+a.navbar-brand{
+    font-size:x-large;
+}
