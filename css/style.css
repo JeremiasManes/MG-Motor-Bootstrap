@@ -6,6 +6,12 @@
 .navbar {
     background-color: red;
 }
-a.navbar-brand{
-    font-size:x-large;
+
+a.navbar-brand {
+    font-size: x-large;
+}
+
+button.btn {
+    color: white;
+    border-color: white;
 }
