@@ -15,3 +15,7 @@ button.btn {
     color: white;
     border-color: white;
 }
+button.btn:hover{
+    color: black;
+    background-color: white;
+}
