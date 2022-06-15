@@ -30,19 +30,22 @@ input.form-control {
 input.form-control:focus {
     width: 100%;
 }
+
 /* CLASES FOOTER */
-.footer{
+.footer {
     position: absolute;
     bottom: 0;
     background-color: red;
 }
-div.datoslocal{
+
+div.datoslocal {
     padding-left: 1rem;
     font-weight: bold;
     color: white;
     text-decoration: underline;
 }
-div.iconosredes{
+
+div.iconosredes {
     padding-left: 10rem;
     padding-top: 1rem;
 }
@@ -64,4 +67,9 @@ div.row.pagos {
 
 li {
     list-style: none;
+}
+
+/* CLASES INDEX */
+div.fondomain {
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-car-advertising-hd-background-image_136293.jpg);
 }
