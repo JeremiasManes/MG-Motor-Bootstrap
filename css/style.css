@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
 }
+
 /* CLASES HEADER */
 .navbar {
     background-color: red;
@@ -15,19 +16,30 @@ button.btn {
     color: white;
     border-color: white;
 }
-button.btn:hover{
+
+button.btn:hover {
     color: black;
     background-color: white;
 }
+input.form-control{
+    width: 50%;
+    transition: 2s;
+}
+input.form-control:focus{
+    width: 100%;
+}
+
 /* CLASES MEDIOS DE PAGO */
-.col-4{
+.col-md-12.col-xl-4 {
     text-align: center;
 }
-.titulopagos{
+
+.titulopagos {
     text-decoration: underline;
     font-size: x-large;
     font-weight: bold;
 }
-li{
+
+li {
     list-style: none;
 }
