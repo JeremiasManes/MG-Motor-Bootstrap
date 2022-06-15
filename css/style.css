@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* CLASES HEADER */
 .navbar {
     background-color: red;
 }
@@ -18,4 +18,16 @@ button.btn {
 button.btn:hover{
     color: black;
     background-color: white;
+}
+/* CLASES MEDIOS DE PAGO */
+.col-4{
+    text-align: center;
+}
+.titulopagos{
+    text-decoration: underline;
+    font-size: x-large;
+    font-weight: bold;
+}
+li{
+    list-style: none;
 }
