@@ -30,9 +30,14 @@ input.form-control {
 input.form-control:focus {
     width: 100%;
 }
+/* CLASES FOOTER */
+footer{
+    position: relative;
+    bottom: 0;
+}
 
 /* CLASES MEDIOS DE PAGO */
-div.row {
+div.row.pagos {
     margin-top: 100px;
 }
 
